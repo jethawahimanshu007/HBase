@@ -1,3 +1,4 @@
 Delete text here
 Added text!
 Added text locally
+Add one more line to test direct commitment to local and remote via Github app
