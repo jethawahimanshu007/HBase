@@ -1,4 +1,8 @@
 Delete text here
+<<<<<<< HEAD
 Added text!
 Added text locally
 Add one more line to test direct commitment to local and remote via Github app
+=======
+Added text!
+>>>>>>> parent of a71e5b8... Local and remote change test
